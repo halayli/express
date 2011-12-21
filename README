@@ -1,0 +1,24 @@
+acronyms
+--------
+
+srv	server
+cli	client
+prx	proxy
+cnt	content
+hdr	header
+req	request
+resp	response
+sess	session
+conn	connection
+st	state
+fd	file descriptor
+str	string
+ref	reference
+proto	protocol
+inv	invalid
+err	error
+exc	exceeded
+recvd	received
+addr	address
+prog	progress
+trans	transfer
